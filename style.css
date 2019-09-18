@@ -1,12 +1,30 @@
-.body {
-  margin: 0;
-  background-color: E1B7DE;
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+body {
+  background-color: #f1c9ef;
+  font-family: Lato;
+}
+
+.container {
+  margin-top: 100px;
 }
 
 .song {
-  background-color: blue;
+  background-color: #FBF2FA;
   margin: 0 auto;
-  height: 500px;
+  height: 600px;
   width: 400px;
+  border-radius: 10px;
+  -webkit-box-shadow: 1px 1px 0 #363636;
+          box-shadow: 1px 1px 0 #363636;
+}
+
+.song h2 {
+  text-align: center;
+  padding: 15px;
+}
+
+.song p {
+  text-align: center;
+  padding: 5px;
 }
 /*# sourceMappingURL=style.css.map */
