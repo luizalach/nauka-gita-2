@@ -14,8 +14,7 @@ body {
   height: 600px;
   width: 400px;
   border-radius: 10px;
-  -webkit-box-shadow: 1px 1px 0 #363636;
-          box-shadow: 1px 1px 0 #363636;
+  box-shadow: 1px 1px 0 #363636;
 }
 
 .song h2 {
@@ -27,7 +26,3 @@ body {
   text-align: center;
   padding: 5px;
 }
-
-
-
-/*# sourceMappingURL=style.css.map */

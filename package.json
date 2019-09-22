@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/luizalach/nauka-gita-2/issues"
   },
-  "homepage": "https://github.com/luizalach/nauka-gita-2#readme"
+  "homepage": "https://github.com/luizalach/nauka-gita-2#readme",
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0"
+  },
+  "devDependencies": {
+    "nu-html-checker": "^0.1.0"
+  }
 }
